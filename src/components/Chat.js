@@ -14,7 +14,7 @@ class Chat extends Component {
     }
     render() {
         return (
-            <div>this is trashtalkbot</div>
+            <div></div>
         );
     }
 }
